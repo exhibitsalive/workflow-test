@@ -1,0 +1,10 @@
+{
+  "name": "lynda",
+  "version": "0.0.0",
+  "description": "A test for lynda.com tutorial",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Mark Fowle"
+}
